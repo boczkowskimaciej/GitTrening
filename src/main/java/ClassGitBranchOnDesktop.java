@@ -1,6 +1,6 @@
 public class ClassGitBranchOnDesktop {
 
     public void print(){
-        System.out.println();
+        System.out.println("Następna próba wysłania");
     }
 }
